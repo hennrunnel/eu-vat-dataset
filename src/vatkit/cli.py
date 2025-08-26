@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Optional, List
 
@@ -31,12 +31,13 @@ def sync(
         iso_list = None
 
     rprint(f"[bold]Fetching[/bold] TEDB VAT rates snapshot on {snapshot} ...")
-    # Fallback window fetch + filter to TODAY to avoid TEDB snapshot errors
-    window_start = date.today().isoformat()
-    tedb_doc = fetch_vat_rates(date_from=window_start, date_to=snapshot, iso_list=iso_list)
+    # Fetch a recent window up to TODAY to ensure up-to-date entries are included
+    today = date.today()
+    window_start = (today - timedelta(days=90)).isoformat()
+    tedb_doc = fetch_vat_rates(date_from=window_start, date_to=today.isoformat(), iso_list=iso_list)
 
     rprint("[bold]Mapping[/bold] to unified model ...")
-    unified = map_tedb_to_unified(tedb_doc, only_date=snapshot)
+    unified = map_tedb_to_unified(tedb_doc)
 
     rprint("[bold]Writing[/bold] outputs ...")
     write_json(unified)

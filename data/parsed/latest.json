@@ -1,3 +1,3961 @@
 {
-  "countries": []
+  "countries": [
+    {
+      "iso2": "AT",
+      "name": "Austria",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 10.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Solar Panels",
+          "rate_percent": 0.0,
+          "category_id": "SOLAR_PANELS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 13.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 13.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 13.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 13.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 13.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 13.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 13.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 13.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 13.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 13.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 13.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Region",
+          "rate_percent": 19.0,
+          "category_id": "REGION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 20.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 10.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 10.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 10.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 10.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 10.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 10.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 10.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 10.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 10.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 10.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "BE",
+      "name": "Belgium",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 6.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 6.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Plant",
+          "rate_percent": 6.0,
+          "category_id": "PLANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 0.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 0.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 0.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 0.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 0.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 0.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "New Parking Rate",
+          "rate_percent": 12.0,
+          "category_id": "NEW_PARKING_RATE",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 6.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 6.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood",
+          "rate_percent": 6.0,
+          "category_id": "WOOD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 6.0,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 6.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 6.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Bicycles Rental",
+          "rate_percent": 6.0,
+          "category_id": "BICYCLES_RENTAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 6.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 6.0,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 6.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Fossil Fuel",
+          "rate_percent": 12.0,
+          "category_id": "FOSSIL_FUEL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 6.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 12.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 6.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Enamels",
+          "rate_percent": 6.0,
+          "category_id": "ENAMELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 6.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 6.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Ceramics",
+          "rate_percent": 6.0,
+          "category_id": "CERAMICS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 6.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 6.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 6.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 6.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sustainable Energy",
+          "rate_percent": 6.0,
+          "category_id": "SUSTAINABLE_ENERGY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 6.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Gas",
+          "rate_percent": 6.0,
+          "category_id": "SUPPLY_GAS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 6.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 6.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Construction",
+          "rate_percent": 6.0,
+          "category_id": "CONSTRUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Renovation",
+          "rate_percent": 6.0,
+          "category_id": "RENOVATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 6.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood Article98",
+          "rate_percent": 6.0,
+          "category_id": "WOOD_ARTICLE98",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 21.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "BG",
+      "name": "Bulgaria",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 9.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 9.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 9.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 9.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 20.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "CY",
+      "name": "Cyprus",
+      "categories": [
+        {
+          "label": "Cultural Events",
+          "rate_percent": 0.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 0.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 0.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 0.0,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 5.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 5.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Children Car Seats",
+          "rate_percent": 5.0,
+          "category_id": "CHILDREN_CAR_SEATS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 5.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 5.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 5.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 5.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 5.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 5.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 5.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 5.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Hairdressing",
+          "rate_percent": 5.0,
+          "category_id": "HAIRDRESSING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 9.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 9.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Books",
+          "rate_percent": 3.0,
+          "category_id": "BOOKS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 3.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 3.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Waste Treatment Refusal",
+          "rate_percent": 3.0,
+          "category_id": "WASTE_TREATMENT_REFUSAL",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Waste Treatment",
+          "rate_percent": 3.0,
+          "category_id": "WASTE_TREATMENT",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Theatre Performances",
+          "rate_percent": 3.0,
+          "category_id": "THEATRE_PERFORMANCES",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 19.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "CZ",
+      "name": "Czech Republic",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 12.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Plant",
+          "rate_percent": 12.0,
+          "category_id": "PLANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 12.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 12.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 12.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Children Car Seats",
+          "rate_percent": 12.0,
+          "category_id": "CHILDREN_CAR_SEATS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 12.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 12.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 12.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 12.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 12.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 12.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Domestic Care",
+          "rate_percent": 12.0,
+          "category_id": "DOMESTIC_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 12.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 12.0,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 12.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 12.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 12.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 12.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 21.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 0.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 0.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 0.0,
+          "category_id": "PICTURES",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 0.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 0.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 0.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 0.0,
+          "category_id": "POSTAGE",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 0.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "NOT_APPLICABLE"
+        }
+      ]
+    },
+    {
+      "iso2": "DE",
+      "name": "Germany",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 7.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 7.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 7.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 7.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Plant",
+          "rate_percent": 7.0,
+          "category_id": "PLANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 7.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 7.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 7.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 7.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 0.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 0.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "OUT_OF_SCOPE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 7.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 7.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 7.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 7.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 7.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 7.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 7.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 7.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 7.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 7.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 19.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "DK",
+      "name": "Denmark",
+      "categories": [
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 0.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 0.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 0.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 0.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 0.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 0.0,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 25.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "EE",
+      "name": "Estonia",
+      "categories": [
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 9.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 9.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 13.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 24.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 9.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 9.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "GR",
+      "name": "Greece",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 13.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 6.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 6.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 6.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 6.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 6.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Equipment",
+          "rate_percent": 13.0,
+          "category_id": "AGRICULTURAL_EQUIPMENT",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Supply Gas",
+          "rate_percent": 6.0,
+          "category_id": "SUPPLY_GAS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 6.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 6.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 6.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 13.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Children Car Seats",
+          "rate_percent": 13.0,
+          "category_id": "CHILDREN_CAR_SEATS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 13.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 13.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 13.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 13.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 13.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 13.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 13.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 13.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 13.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Domestic Care",
+          "rate_percent": 13.0,
+          "category_id": "DOMESTIC_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 13.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Region",
+          "rate_percent": 17.0,
+          "category_id": "REGION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Non Owned Residency Renovation",
+          "rate_percent": 4.0,
+          "category_id": "NON_OWNED_RESIDENCY_RENOVATION",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 24.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 13.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "ES",
+      "name": "Spain",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 10.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 10.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 10.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 10.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 10.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 10.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 10.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 10.0,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 10.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 10.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Ceramics",
+          "rate_percent": 10.0,
+          "category_id": "CERAMICS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Enamels",
+          "rate_percent": 10.0,
+          "category_id": "ENAMELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 10.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 10.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 10.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 10.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 10.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 10.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 10.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 10.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 10.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 10.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 10.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Exemption Superreduced",
+          "rate_percent": 4.0,
+          "category_id": "EXEMPTION_SUPERREDUCED",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 7.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "FI",
+      "name": "Finland",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 14.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 10.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 10.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 10.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 14.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 14.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 14.0,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 14.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 14.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 14.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 14.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 14.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 14.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 14.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 14.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 14.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 14.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 14.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 25.5,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "FR",
+      "name": "France",
+      "categories": [
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 10.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 10.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 10.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 5.5,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 10.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 10.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 10.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 10.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.5,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 10.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 10.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 10.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 10.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Region",
+          "rate_percent": 13.0,
+          "category_id": "REGION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.5,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Antiques",
+          "rate_percent": 5.5,
+          "category_id": "ANTIQUES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 2.1,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 2.1,
+          "category_id": "PERIODICALS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 20.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 5.5,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Solar Panels",
+          "rate_percent": 5.5,
+          "category_id": "SOLAR_PANELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 5.5,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Gas",
+          "rate_percent": 5.5,
+          "category_id": "SUPPLY_GAS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 5.5,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 5.5,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Domestic Care",
+          "rate_percent": 5.5,
+          "category_id": "DOMESTIC_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 5.5,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 5.5,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 5.5,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 5.5,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 5.5,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Window Cleaning",
+          "rate_percent": 0.0,
+          "category_id": "WINDOW_CLEANING",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 5.5,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 5.5,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "HR",
+      "name": "Croatia",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 5.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 5.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood Article98",
+          "rate_percent": 5.0,
+          "category_id": "WOOD_ARTICLE98",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 5.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 5.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 5.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 5.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 5.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 13.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 13.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 13.0,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Children Car Seats",
+          "rate_percent": 13.0,
+          "category_id": "CHILDREN_CAR_SEATS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 13.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 13.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 13.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 13.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Gas",
+          "rate_percent": 5.0,
+          "category_id": "SUPPLY_GAS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 25.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "HU",
+      "name": "Hungary",
+      "categories": [
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 5.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Antiques",
+          "rate_percent": 5.0,
+          "category_id": "ANTIQUES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 5.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 5.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 5.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 5.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 5.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 5.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 18.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 27.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 0.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "EXEMPTED"
+        }
+      ]
+    },
+    {
+      "iso2": "IE",
+      "name": "Ireland",
+      "categories": [
+        {
+          "label": "Restaurant",
+          "rate_percent": 13.5,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 13.5,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Window Cleaning",
+          "rate_percent": 13.5,
+          "category_id": "WINDOW_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 13.5,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 13.5,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Hairdressing",
+          "rate_percent": 13.5,
+          "category_id": "HAIRDRESSING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 23.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 0.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 0.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Solar Panels",
+          "rate_percent": 0.0,
+          "category_id": "SOLAR_PANELS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 0.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 0.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "NOT_APPLICABLE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 13.5,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 13.5,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Ceramics",
+          "rate_percent": 13.5,
+          "category_id": "CERAMICS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 13.5,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 13.5,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 13.5,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 13.5,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 13.5,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Enamels",
+          "rate_percent": 13.5,
+          "category_id": "ENAMELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 13.5,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 13.5,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 13.5,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 13.5,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "IT",
+      "name": "Italy",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 10.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 5.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 5.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Live Equines",
+          "rate_percent": 5.0,
+          "category_id": "LIVE_EQUINES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 10.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sustainable Energy",
+          "rate_percent": 5.0,
+          "category_id": "SUSTAINABLE_ENERGY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Gas",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_GAS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Fossil Fuel",
+          "rate_percent": 10.0,
+          "category_id": "FOSSIL_FUEL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 4.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Temporary Exemption Rate",
+          "rate_percent": 4.0,
+          "category_id": "TEMPORARY_EXEMPTION_RATE",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood",
+          "rate_percent": 10.0,
+          "category_id": "WOOD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 10.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 10.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Exemption Superreduced",
+          "rate_percent": 4.0,
+          "category_id": "EXEMPTION_SUPERREDUCED",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 22.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 10.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 10.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 10.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 10.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 10.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 10.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 10.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Chemical Fertilisers",
+          "rate_percent": 4.0,
+          "category_id": "CHEMICAL_FERTILISERS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 10.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "LT",
+      "name": "Lithuania",
+      "categories": [
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 5.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 5.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 9.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 9.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 9.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood",
+          "rate_percent": 9.0,
+          "category_id": "WOOD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 9.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 9.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 21.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "LU",
+      "name": "Luxembourg",
+      "categories": [
+        {
+          "label": "Exemption Superreduced",
+          "rate_percent": 3.0,
+          "category_id": "EXEMPTION_SUPERREDUCED",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Royalties",
+          "rate_percent": 3.0,
+          "category_id": "ROYALTIES",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Certain Broadcasting Services",
+          "rate_percent": 3.0,
+          "category_id": "CERTAIN_BROADCASTING_SERVICES",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 3.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Facility Access",
+          "rate_percent": 3.0,
+          "category_id": "SPORTING_FACILITY_ACCESS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Funeral",
+          "rate_percent": 3.0,
+          "category_id": "FUNERAL",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Event Access",
+          "rate_percent": 3.0,
+          "category_id": "EVENT_ACCESS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Residential Renovation",
+          "rate_percent": 3.0,
+          "category_id": "RESIDENTIAL_RENOVATION",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 3.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Non Owned Residency Renovation",
+          "rate_percent": 3.0,
+          "category_id": "NON_OWNED_RESIDENCY_RENOVATION",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Temporary Exemption Rate",
+          "rate_percent": 8.0,
+          "category_id": "TEMPORARY_EXEMPTION_RATE",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 17.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 0.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "New Parking Rate",
+          "rate_percent": 14.0,
+          "category_id": "NEW_PARKING_RATE",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Wine Fresh Grape",
+          "rate_percent": 14.0,
+          "category_id": "WINE_FRESH_GRAPE",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Fuel Mineral Oil",
+          "rate_percent": 14.0,
+          "category_id": "FUEL_MINERAL_OIL",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Cleaning Product",
+          "rate_percent": 14.0,
+          "category_id": "CLEANING_PRODUCT",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Printed Advertising Material",
+          "rate_percent": 14.0,
+          "category_id": "PRINTED_ADVERTISING_MATERIAL",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Heat Cooling Steam",
+          "rate_percent": 14.0,
+          "category_id": "HEAT_COOLING_STEAM",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Credit Management",
+          "rate_percent": 14.0,
+          "category_id": "CREDIT_MANAGEMENT",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Security Management",
+          "rate_percent": 14.0,
+          "category_id": "SECURITY_MANAGEMENT",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Plant",
+          "rate_percent": 8.0,
+          "category_id": "PLANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Gas",
+          "rate_percent": 8.0,
+          "category_id": "SUPPLY_GAS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Fossil Fuel",
+          "rate_percent": 8.0,
+          "category_id": "FOSSIL_FUEL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 8.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 8.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Chemical Pesticides Environment",
+          "rate_percent": 8.0,
+          "category_id": "CHEMICAL_PESTICIDES_ENVIRONMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Certain Agricultural Input",
+          "rate_percent": 3.0,
+          "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Wood Article98",
+          "rate_percent": 8.0,
+          "category_id": "WOOD_ARTICLE98",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood",
+          "rate_percent": 8.0,
+          "category_id": "WOOD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Antiques",
+          "rate_percent": 8.0,
+          "category_id": "ANTIQUES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Bicycles Electric",
+          "rate_percent": 8.0,
+          "category_id": "BICYCLES_ELECTRIC",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 3.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 8.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Bicycles Rental",
+          "rate_percent": 8.0,
+          "category_id": "BICYCLES_RENTAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Window Cleaning",
+          "rate_percent": 8.0,
+          "category_id": "WINDOW_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Household",
+          "rate_percent": 8.0,
+          "category_id": "HOUSEHOLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 8.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 8.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Hairdressing",
+          "rate_percent": 8.0,
+          "category_id": "HAIRDRESSING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 3.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Chemical Fertilisers",
+          "rate_percent": 3.0,
+          "category_id": "CHEMICAL_FERTILISERS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 3.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Child Wear",
+          "rate_percent": 3.0,
+          "category_id": "CHILD_WEAR",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Waste Treatment",
+          "rate_percent": 3.0,
+          "category_id": "WASTE_TREATMENT",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Waste Treatment Refusal",
+          "rate_percent": 3.0,
+          "category_id": "WASTE_TREATMENT_REFUSAL",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Solar Panels",
+          "rate_percent": 3.0,
+          "category_id": "SOLAR_PANELS",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Holiday Accommodation",
+          "rate_percent": 3.0,
+          "category_id": "HOLIDAY_ACCOMMODATION",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Food Service",
+          "rate_percent": 3.0,
+          "category_id": "FOOD_SERVICE",
+          "rate_type": "SUPER_REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "LV",
+      "name": "Latvia",
+      "categories": [
+        {
+          "label": "Sporting Events",
+          "rate_percent": 0.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 5.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 5.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 12.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 12.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 12.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Wood Article98",
+          "rate_percent": 12.0,
+          "category_id": "WOOD_ARTICLE98",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Heating",
+          "rate_percent": 12.0,
+          "category_id": "SUPPLY_HEATING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 12.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 12.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 0.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 0.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 0.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 21.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "MT",
+      "name": "Malta",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 0.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 5.0,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 7.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 18.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 0.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 5.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 5.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 0.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 0.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 0.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 0.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Security Management",
+          "rate_percent": 12.0,
+          "category_id": "SECURITY_MANAGEMENT",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Credit Management",
+          "rate_percent": 12.0,
+          "category_id": "CREDIT_MANAGEMENT",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Hiring Short Period",
+          "rate_percent": 12.0,
+          "category_id": "HIRING_SHORT_PERIOD",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Body Care Services",
+          "rate_percent": 12.0,
+          "category_id": "BODY_CARE_SERVICES",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 5.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 5.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 5.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 5.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 5.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 5.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Domestic Care",
+          "rate_percent": 5.0,
+          "category_id": "DOMESTIC_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 5.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 5.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 5.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 5.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Enamels",
+          "rate_percent": 5.0,
+          "category_id": "ENAMELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 5.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Ceramics",
+          "rate_percent": 5.0,
+          "category_id": "CERAMICS",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "NL",
+      "name": "Netherlands",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 9.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Solar Panels",
+          "rate_percent": 0.0,
+          "category_id": "SOLAR_PANELS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 9.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 9.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 9.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 9.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 9.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 9.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Antiques",
+          "rate_percent": 9.0,
+          "category_id": "ANTIQUES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 9.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 9.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 9.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Window Cleaning",
+          "rate_percent": 9.0,
+          "category_id": "WINDOW_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 9.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 9.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 9.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 9.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Hairdressing",
+          "rate_percent": 9.0,
+          "category_id": "HAIRDRESSING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 21.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Plant",
+          "rate_percent": 9.0,
+          "category_id": "PLANT",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "PL",
+      "name": "Poland",
+      "categories": [
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 8.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 8.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 8.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Hairdressing",
+          "rate_percent": 8.0,
+          "category_id": "HAIRDRESSING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 8.0,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 8.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 8.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Broadcasting Services",
+          "rate_percent": 8.0,
+          "category_id": "BROADCASTING_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 8.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 8.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 8.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 8.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 8.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Temporary Exemption Rate",
+          "rate_percent": 8.0,
+          "category_id": "TEMPORARY_EXEMPTION_RATE",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 5.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Periodicals",
+          "rate_percent": 5.0,
+          "category_id": "PERIODICALS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Children Car Seats",
+          "rate_percent": 5.0,
+          "category_id": "CHILDREN_CAR_SEATS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 8.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 8.0,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 8.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 8.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 8.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 8.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 8.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 8.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 8.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 8.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 8.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 8.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 8.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 8.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 23.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "PT",
+      "name": "Portugal",
+      "categories": [
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 6.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 6.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "New Parking Rate",
+          "rate_percent": 13.0,
+          "category_id": "NEW_PARKING_RATE",
+          "rate_type": "PARKING_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 6.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Ceramics",
+          "rate_percent": 6.0,
+          "category_id": "CERAMICS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Enamels",
+          "rate_percent": 6.0,
+          "category_id": "ENAMELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 6.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 6.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 6.0,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 6.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 6.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 6.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 6.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Care",
+          "rate_percent": 6.0,
+          "category_id": "MEDICAL_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Domestic Care",
+          "rate_percent": 6.0,
+          "category_id": "DOMESTIC_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 13.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 13.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Region",
+          "rate_percent": 16.0,
+          "category_id": "REGION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Temporary Exemption Rate",
+          "rate_percent": 6.0,
+          "category_id": "TEMPORARY_EXEMPTION_RATE",
+          "rate_type": "SUPER_REDUCED_RATE"
+        },
+        {
+          "label": "Fossil Fuel",
+          "rate_percent": 13.0,
+          "category_id": "FOSSIL_FUEL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 23.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Sustainable Energy",
+          "rate_percent": 6.0,
+          "category_id": "SUSTAINABLE_ENERGY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 6.0,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 6.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 6.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 6.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 6.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 6.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "RO",
+      "name": "Romania",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 11.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 11.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 11.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 11.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 11.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 11.0,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 9.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 0.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Private Dwellings",
+          "rate_percent": 0.0,
+          "category_id": "PRIVATE_DWELLINGS",
+          "rate_type": "EXEMPTED"
+        },
+        {
+          "label": "Wood Article98",
+          "rate_percent": 11.0,
+          "category_id": "WOOD_ARTICLE98",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 11.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sustainable Energy",
+          "rate_percent": 11.0,
+          "category_id": "SUSTAINABLE_ENERGY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 11.0,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 11.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 21.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "SE",
+      "name": "Sweden",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 12.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 12.0,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 12.0,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 12.0,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 12.0,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 12.0,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 12.0,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 12.0,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 12.0,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 12.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 12.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 12.0,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 12.0,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 6.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 6.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 6.0,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 6.0,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 6.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 6.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 25.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    },
+    {
+      "iso2": "SI",
+      "name": "Slovenia",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 9.5,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Agricultural Production",
+          "rate_percent": 9.5,
+          "category_id": "AGRICULTURAL_PRODUCTION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Loan Libraries",
+          "rate_percent": 5.0,
+          "category_id": "LOAN_LIBRARIES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Rescue Equipment",
+          "rate_percent": 5.0,
+          "category_id": "RESCUE_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Plant",
+          "rate_percent": 9.5,
+          "category_id": "PLANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 9.5,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 9.5,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pictures",
+          "rate_percent": 9.5,
+          "category_id": "PICTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Impressions",
+          "rate_percent": 9.5,
+          "category_id": "IMPRESSIONS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Photographs",
+          "rate_percent": 9.5,
+          "category_id": "PHOTOGRAPHS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculptures",
+          "rate_percent": 9.5,
+          "category_id": "SCULPTURES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sculpture Casts",
+          "rate_percent": 9.5,
+          "category_id": "SCULPTURE_CASTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Ceramics",
+          "rate_percent": 9.5,
+          "category_id": "CERAMICS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Enamels",
+          "rate_percent": 9.5,
+          "category_id": "ENAMELS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Postage",
+          "rate_percent": 9.5,
+          "category_id": "POSTAGE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Zoological",
+          "rate_percent": 9.5,
+          "category_id": "ZOOLOGICAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "100 Years Old",
+          "rate_percent": 9.5,
+          "category_id": "100_YEARS_OLD",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Water",
+          "rate_percent": 9.5,
+          "category_id": "SUPPLY_WATER",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Street Cleaning",
+          "rate_percent": 9.5,
+          "category_id": "STREET_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 9.5,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Transport Passengers",
+          "rate_percent": 9.5,
+          "category_id": "TRANSPORT_PASSENGERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 9.5,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 9.5,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Window Cleaning",
+          "rate_percent": 9.5,
+          "category_id": "WINDOW_CLEANING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Domestic Care",
+          "rate_percent": 9.5,
+          "category_id": "DOMESTIC_CARE",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 9.5,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Writers Services",
+          "rate_percent": 9.5,
+          "category_id": "WRITERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 9.5,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Shoes Repair",
+          "rate_percent": 9.5,
+          "category_id": "SHOES_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Clothing Repair",
+          "rate_percent": 9.5,
+          "category_id": "CLOTHING_REPAIR",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Bicycles Rental",
+          "rate_percent": 9.5,
+          "category_id": "BICYCLES_RENTAL",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Hairdressing",
+          "rate_percent": 9.5,
+          "category_id": "HAIRDRESSING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Undertakers Services",
+          "rate_percent": 9.5,
+          "category_id": "UNDERTAKERS_SERVICES",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 22.0,
+          "rate_type": "DEFAULT"
+        },
+        {
+          "label": "Tapestries",
+          "rate_percent": 9.5,
+          "category_id": "TAPESTRIES",
+          "rate_type": "REDUCED_RATE"
+        }
+      ]
+    },
+    {
+      "iso2": "SK",
+      "name": "Slovakia",
+      "categories": [
+        {
+          "label": "Foodstuffs",
+          "rate_percent": 5.0,
+          "category_id": "FOODSTUFFS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Supply Electricity",
+          "rate_percent": 19.0,
+          "category_id": "SUPPLY_ELECTRICITY",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Restaurant",
+          "rate_percent": 5.0,
+          "category_id": "RESTAURANT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Pharmaceutical Products",
+          "rate_percent": 5.0,
+          "category_id": "PHARMACEUTICAL_PRODUCTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Medical Equipment",
+          "rate_percent": 5.0,
+          "category_id": "MEDICAL_EQUIPMENT",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Newspapers",
+          "rate_percent": 5.0,
+          "category_id": "NEWSPAPERS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Housing Provision",
+          "rate_percent": 5.0,
+          "category_id": "HOUSING_PROVISION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Accommodation",
+          "rate_percent": 5.0,
+          "category_id": "ACCOMMODATION",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Social Wellbeing",
+          "rate_percent": 5.0,
+          "category_id": "SOCIAL_WELLBEING",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Cultural Events",
+          "rate_percent": 5.0,
+          "category_id": "CULTURAL_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Admission Sporting Events",
+          "rate_percent": 5.0,
+          "category_id": "ADMISSION_SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Sporting Events",
+          "rate_percent": 5.0,
+          "category_id": "SPORTING_EVENTS",
+          "rate_type": "REDUCED_RATE"
+        },
+        {
+          "label": "Standard",
+          "rate_percent": 23.0,
+          "rate_type": "DEFAULT"
+        }
+      ]
+    }
+  ]
 }
