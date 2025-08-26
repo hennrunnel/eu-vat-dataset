@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eu-vat-dataset"
+version = "0.1.0"
+description = "Fetch EU VAT rates from TEDB and output JSON+Markdown"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+vatkit = "vatkit.cli:app"
+
+
