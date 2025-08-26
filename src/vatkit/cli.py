@@ -20,21 +20,23 @@ def sync(
     states: Optional[str] = typer.Option(None, "--states", help="Comma-separated ISO2 for smoke test (default: all EU)"),
 ) -> None:
     """Fetch from TEDB → map → write data/parsed/latest.json and docs/eu-vat-rates-and-categories-dataset.md"""
+    # Snapshot mode: use today's date for both from and situationOn, and ignore 'to'
     if not date_from:
-        date_from = "2020-01-01"
-    if not date_to:
-        date_to = date.today().isoformat()
+        date_from = date.today().isoformat()
+    snapshot = date.today().isoformat()
 
     if states:
         iso_list: Optional[List[str]] = [s.strip().upper() for s in states.split(',') if s.strip()]
     else:
         iso_list = None
 
-    rprint(f"[bold]Fetching[/bold] TEDB VAT rates from {date_from} to {date_to} ...")
-    tedb_doc = fetch_vat_rates(date_from=date_from, date_to=date_to, iso_list=iso_list)
+    rprint(f"[bold]Fetching[/bold] TEDB VAT rates snapshot on {snapshot} ...")
+    # Fallback window fetch + filter to TODAY to avoid TEDB snapshot errors
+    window_start = date.today().isoformat()
+    tedb_doc = fetch_vat_rates(date_from=window_start, date_to=snapshot, iso_list=iso_list)
 
     rprint("[bold]Mapping[/bold] to unified model ...")
-    unified = map_tedb_to_unified(tedb_doc)
+    unified = map_tedb_to_unified(tedb_doc, only_date=snapshot)
 
     rprint("[bold]Writing[/bold] outputs ...")
     write_json(unified)

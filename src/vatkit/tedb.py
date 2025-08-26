@@ -13,7 +13,12 @@ EU_STATES = [
 ]
 
 
-def fetch_vat_rates(date_from: str, date_to: str, iso_list: Optional[List[str]] = None) -> Dict[str, Any]:
+def fetch_vat_rates(
+    date_from: str,
+    date_to: Optional[str] = None,
+    iso_list: Optional[List[str]] = None,
+    snapshot: Optional[str] = None,
+) -> Dict[str, Any]:
     client = Client(TEDB_WSDL_URL)
     svc = client.service
     if not iso_list:
@@ -21,8 +26,11 @@ def fetch_vat_rates(date_from: str, date_to: str, iso_list: Optional[List[str]] 
     req = {
         'memberStates': {'isoCode': iso_list},
         'from': date_from,
-        'to': date_to,
     }
+    if snapshot:
+        req['situationOn'] = snapshot
+    elif date_to:
+        req['to'] = date_to
     res = svc.retrieveVatRates(**req)
     # zeep returns an object; the CLI mapper will serialize
     from zeep.helpers import serialize_object

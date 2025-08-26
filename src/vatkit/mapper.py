@@ -1,4 +1,4 @@
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 
 
 ISO2_TO_COUNTRY = {
@@ -9,8 +9,10 @@ ISO2_TO_COUNTRY = {
 }
 
 
-def map_tedb_to_unified(doc: Dict[str, Any]) -> Dict[str, Any]:
+def map_tedb_to_unified(doc: Dict[str, Any], only_date: Optional[str] = None) -> Dict[str, Any]:
     results = doc.get('vatRateResults', []) or []
+    if only_date:
+        results = [i for i in results if (i.get('situationOn') or '') == only_date]
     by_state: Dict[str, Dict[str, Dict[str, Any]]] = {}
 
     def label_for(item: Dict[str, Any]) -> str:
