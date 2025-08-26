@@ -32,7 +32,7 @@ def fetch_vat_rates(date_from: str, date_to: str, iso_list: Optional[List[str]] 
     raw_dir.mkdir(parents=True, exist_ok=True)
     raw_path = raw_dir / f'tedb_{date_from}_to_{date_to}.json'
     try:
-        raw_path.write_text(json.dumps(doc, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+        raw_path.write_text(json.dumps(doc, indent=2, ensure_ascii=False, default=str) + '\n', encoding='utf-8')
     except Exception:
         # Best-effort; if serialization fails on exotic types, skip raw write
         pass
