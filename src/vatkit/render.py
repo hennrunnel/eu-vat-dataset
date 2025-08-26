@@ -23,24 +23,22 @@ def write_markdown(unified: Dict[str, Any]) -> Path:
     countries = unified.get('countries', [])
     # Always use today's UTC date
     today_utc = datetime.utcnow().date().isoformat()
-    # Frontmatter (public-friendly)
-    fm = [
-        '---',
-        'title: EU VAT Rates and Categories by Member State — Dataset',
-        f'retrieved_at: {today_utc} (UTC)',
-        'context: Public dataset generated from the European Commission\'s TEDB to feed Voog\'s upcoming multi‑VAT support with up‑to‑date official EU VAT categories and rates for multilingual websites and stores.',
-        'sources:',
+    # Plain text header (no YAML frontmatter)
+    header = [
+        '## EU VAT Rates and Categories by Member State — Dataset',
+        '',
+        f'- Retrieved at: {today_utc} (UTC)',
+        "- Context: Public dataset generated from the European Commission's TEDB to feed Voog's upcoming multi‑VAT support with up‑to‑date official EU VAT categories and rates for multilingual websites and stores.",
+        '- Sources:',
         '  - TEDB (EC UI): https://ec.europa.eu/taxation_customs/tedb/#/home',
         '  - TEDB VAT SOAP WSDL: https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl',
-        'coverage:',
-        f'  eu_members: {len(countries)}',
-        'schema:',
-        '  country_fields: [iso2, name]',
-        '  category_fields: [label, rate_percent, category_id, rate_type]',
-        '---',
+        f'- Coverage: EU members = {len(countries)}',
+        '- Schema:',
+        '  - country_fields: iso2, name',
+        '  - category_fields: label, rate_percent, category_id, rate_type',
         '',
     ]
-    lines.extend(fm)
+    lines.extend(header)
     # Intro with Voog blurb and CTA
     intro = [
         'EU VAT rates and categories aggregated from the European Commission’s Taxes in Europe Database (TEDB).',

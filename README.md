@@ -1,20 +1,19 @@
----
-title: EU VAT Rates and Categories by Member State — Dataset
-retrieved_at: 2025-08-26 (UTC)
-context: Public dataset generated from the European Commission's TEDB to feed Voog's upcoming multi‑VAT support with up‑to‑date official EU VAT categories and rates for multilingual websites and stores.
-sources:
+## EU VAT Rates and Categories by Member State — Dataset
+
+- Retrieved at: 2025-08-26 (UTC)
+- Context: Public dataset generated from the European Commission's TEDB to feed Voog's upcoming multi‑VAT support with up‑to‑date official EU VAT categories and rates for multilingual websites and stores.
+- Sources:
   - TEDB (EC UI): https://ec.europa.eu/taxation_customs/tedb/#/home
   - TEDB VAT SOAP WSDL: https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl
-coverage:
-  eu_members: 27
-schema:
-  country_fields: [iso2, name]
-  category_fields: [label, rate_percent, category_id, rate_type]
----
+- Coverage: EU members = 27
+- Schema:
+  - country_fields: iso2, name
+  - category_fields: label, rate_percent, category_id, rate_type
 
 EU VAT rates and categories aggregated from the European Commission’s Taxes in Europe Database (TEDB).
 
-This repository feeds Voog’s upcoming multi‑VAT support to help merchants stay compliant across the EU. Voog lets you build multilingual websites and online stores that scale internationally.
+This repository feeds Voog’s upcoming multi‑VAT support to help merchants stay compliant across the EU.
+Voog lets you build multilingual websites and online stores that scale internationally.
 [Start your 30‑day free trial](https://www.voog.com).
 
 ### Usage
